@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 1140,
-  "latest_version_name": "1.1.1.30",
+  "latest_version_code": 1141,
+  "latest_version_name": "1.1.1.31",
   "force_update": false,
-  "apk_url": "https://github.com/luciusdye/Release-update/releases/download/v1.1.1.30/lanxinbudaoluan-1.1.1.30-1140-debug.apk",
+  "apk_url": "https://github.com/luciusdye/Release-update/releases/download/v1.1.1.31/lanxinbudaoluan-1.1.1.31-1141-debug.apk",
   "changelog": "1. 录入与解析体验优化\n2. 悬浮窗交互优化\n3. 图标与界面细节优化"
 }
